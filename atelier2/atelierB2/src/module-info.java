@@ -1,0 +1,2 @@
+module atelierB2 {
+}
